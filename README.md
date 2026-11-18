@@ -1,0 +1,2 @@
+# ClipMaster-AI
+Clips automáticos
